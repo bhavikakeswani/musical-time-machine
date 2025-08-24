@@ -1,0 +1,4 @@
+requests
+spotipy
+beautifulsoup4
+python-dotenv
